@@ -1,0 +1,1 @@
+SPIFFS_demo: When uploading with Tools > ESP32 Sketch Data Upload, Serial Monitor must be turned off.
