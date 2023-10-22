@@ -15,8 +15,8 @@
 #define USE_SERIAL Serial
 
 
-#define ssid "..."
-#define pass "..."
+#define ssid "Orion Telekom_9DE0"
+#define pass "8416F9629DE0"
 
 WiFiMulti wifiMulti;
 
